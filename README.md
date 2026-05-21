@@ -151,12 +151,3 @@ This project covers:
 ## ✅ Conclusion
 
 This project demonstrates the implementation of a simple Guest Book application using PHP and MySQL. It provides practical understanding of form processing, database integration, and dynamic content rendering in web applications.
-
----
-
-<div align="center">
-
-Made with PHP and MySQL
-© 2025 Dimas Dwi Al Bukhori
-
-</div>

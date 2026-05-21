@@ -62,13 +62,12 @@ This project aims to:
 guest-book/
 │
 ├── README.md
-│
-├── from_tamu.php
-├── koneksi.php
-├── simpan_tamu.php
-│
 └── database/
-    └── buku_tamu.sql
+    ├── Hasil-export-buku_tamu.sql
+    ├── from_tamu.php
+    ├── koneksi.php
+    └── simpan_tamu.php
+
 ```
 
 ---
@@ -105,18 +104,6 @@ NAMA VARCHAR(100),
 EMAIL VARCHAR(100),
 ISI TEXT
 );
-```
-
----
-
-## 📷 Preview
-
-Add project screenshots here:
-
-```md
-![Guest Form](assets/form-preview.png)
-
-![Database Result](assets/database-preview.png)
 ```
 
 ---

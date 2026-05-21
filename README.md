@@ -60,7 +60,6 @@ This project aims to:
 
 ```text
 guest-book/
-│
 ├── README.md
 └── database/
     ├── Hasil-export-buku_tamu.sql
@@ -157,7 +156,7 @@ This project demonstrates the implementation of a simple Guest Book application 
 
 <div align="center">
 
-Made with PHP and MySQL  
-© 2026 Dimas Dwi Al Bukhori
+Made with PHP and MySQL
+© 2025 Dimas Dwi Al Bukhori
 
 </div>v

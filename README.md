@@ -159,4 +159,4 @@ This project demonstrates the implementation of a simple Guest Book application 
 Made with PHP and MySQL
 © 2025 Dimas Dwi Al Bukhori
 
-</div>v
+</div>
